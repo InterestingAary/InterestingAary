@@ -20,6 +20,12 @@
 
 I'm a **B.Tech CCE student** who enjoys taking ideas from *"what if?"* to something that actually works. I learn by building — web development, game development, AI, cybersecurity, and DSA.
 
+<p align="center">
+  <img src="https://ghstats.dev/api/mini?username=InterestingAary&metric=commits&color=F7A928&style=for-the-badge" alt="Commits" />
+  <img src="https://ghstats.dev/api/mini?username=InterestingAary&metric=stars&style=for-the-badge" alt="Stars" />
+  <img src="https://ghstats.dev/api/mini?username=InterestingAary&metric=followers&label=Community&color=22c55e&style=for-the-badge" alt="Followers" />
+</p>
+
 - 🔭 **Currently:** Shipping publicly deployed projects, practicing DSA
 - 🌱 **Learning:** Advanced JavaScript, Game Development, AI-assisted Development, Cybersecurity
 - 🎮 **Exploring:** Roblox Studio & Unreal Engine basics
@@ -36,17 +42,15 @@ I'm a **B.Tech CCE student** who enjoys taking ideas from *"what if?"* to someth
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InterestingAary&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.netlify.app/?user=InterestingAary&theme=radical&hide_border=true&background=0d1117" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InterestingAary&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/card?username=InterestingAary&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://ghstats.dev/api/langs?username=InterestingAary&theme=radical&layout=bar&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=InterestingAary&theme=radical&hide_border=true&background=0d1117" alt="Streak Stats" />
 </p>
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=InterestingAary&theme=radical&no-bg=true&no-frame=true&margin-w=6" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InterestingAary&theme=github-compact" alt="Contribution Activity Graph" />
 </p>
 
 ## 🐍 Contribution Snake
@@ -61,6 +65,6 @@ I'm a **B.Tech CCE student** who enjoys taking ideas from *"what if?"* to someth
 
 **Made with ❤️ by Aaryan Mittal**
 
-<img src="https://komarev.com/ghpvc/?username=InterestingAary&color=F7A928&style=flat-square" alt="Profile views" />
+<img src="https://ghstats.dev/api/visits?username=InterestingAary&style=flat-square" alt="Profile views" />
 
 </div>
