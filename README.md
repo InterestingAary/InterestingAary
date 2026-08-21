@@ -31,6 +31,18 @@ I'm a **B.Tech CCE student** who enjoys taking ideas from *"what if?"* to someth
 - 🎮 **Exploring:** Roblox Studio & Unreal Engine basics
 - ⚡ **Fun fact:** I run a gaming channel and a vlog channel on YouTube
 
+## 🚀 Featured — DSAglazzer
+
+<p align="center">
+  <a href="https://interestingaary.github.io/DSAglazzer/"><img src="https://img.shields.io/badge/DSAglazzer-Live-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DSAglazzer Live" /></a>
+  <a href="https://github.com/InterestingAary/DSAglazzer"><img src="https://img.shields.io/github/stars/InterestingAary/DSAglazzer?style=for-the-badge&logo=github&color=0d9488" alt="Stars" /></a>
+  <a href="https://github.com/InterestingAary/DSAglazzer/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-0d9488?style=for-the-badge" alt="License" /></a>
+</p>
+
+**Spaced repetition for DSA — portfolio-grade tracker** built with React 19 · TypeScript · Vite · Tailwind CSS 4 · `framer-motion` + `lenis`. Stores 100% offline (PWA), 365-day heatmap, smart streaks, 23 algorithm tags, calendar agenda, analytics, and a **Chrome Extension (MV3)** that auto-detects solves on LeetCode / GFG / Codeforces / CodeChef / AtCoder.
+
+→ **Live:** [interestingaary.github.io/DSAglazzer](https://interestingaary.github.io/DSAglazzer/) · **Code:** [github.com/InterestingAary/DSAglazzer](https://github.com/InterestingAary/DSAglazzer) · UI upgraded to match this portfolio (grain, dot-grid, `card-lift`, `Reveal`, scroll-progress).
+
 ## 🛠️ Skills
 
 <p align="center">
