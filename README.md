@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=F7A928&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Aaryan+Mittal;Developer+%E2%80%A2+Builder+%E2%80%A2+Creator;B.Tech+CCE+Student+%E2%80%A2+Ideas+to+projects;Web+%E2%80%A2+Game+Dev+%E2%80%A2+AI+%E2%80%A2+Cybersecurity;Learning+Roblox+Studio+%26+Unreal+Engine" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=F7A928&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Aaryan+Mittal;Developer+%E2%80%A2+Builder+%E2%80%A2+Creator;B.Tech+CCE+Student+%E2%80%A2+Ideas+to+projects;Recently+shipped+DSAglazzer+%E2%80%94+React+19+%2B+TS+%2B+PWA+%2B+Extension;Web+%E2%80%A2+Game+Dev+%E2%80%A2+AI+%E2%80%A2+Cybersecurity;Learning+Roblox+Studio+%26+Unreal+Engine" alt="Typing SVG" />
 
 <br/>
 
@@ -18,25 +18,38 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech CCE student** who enjoys taking ideas from *"what if?"* to something that actually works. I learn by building — web development, game development, AI, cybersecurity, and DSA.
+I'm a **B.Tech CCE student** who enjoys taking ideas from *"what if?"* to something that actually works. I learn by building — web development, game development, AI, cybersecurity, and DSA — and **recently shipped [DSAglazzer](https://interestingaary.github.io/DSAglazzer/)**, an offline-first spaced repetition tracker (React 19 + TypeScript + PWA + Chrome Extension) to 3 live projects.
 
 <p align="center">
   <img src="https://ghstats.dev/api/mini?username=InterestingAary&metric=commits&color=F7A928&style=for-the-badge" alt="Commits" />
   <img src="https://ghstats.dev/api/mini?username=InterestingAary&metric=stars&style=for-the-badge" alt="Stars" />
+  <img src="https://ghstats.dev/api/mini?username=InterestingAary&metric=repos&color=14b8a6&style=for-the-badge" alt="Repos" />
   <img src="https://ghstats.dev/api/mini?username=InterestingAary&metric=followers&label=Community&color=22c55e&style=for-the-badge" alt="Followers" />
 </p>
 
-- 🔭 **Currently:** Shipping publicly deployed projects, practicing DSA
-- 🌱 **Learning:** Advanced JavaScript, Game Development, AI-assisted Development, Cybersecurity
+- 🚀 **Recently shipped:** [DSAglazzer](https://interestingaary.github.io/DSAglazzer/) — 365-day heatmap + streaks + calendar + analytics + PWA (live) — now 3 shipped (DSAglazzer, Rural Guards, Birthday Wishes)
+- 🔭 **Currently:** Iterating on portfolio polish and practicing DSA daily
+- 🌱 **Learning:** Advanced TypeScript/React, PWA internals, Game Development, AI-assisted Development, Cybersecurity
 - 🎮 **Exploring:** Roblox Studio & Unreal Engine basics
 - ⚡ **Fun fact:** I run a gaming channel and a vlog channel on YouTube
+
+## 🚀 Featured Projects
+
+- **[DSAglazzer](https://interestingaary.github.io/DSAglazzer/)** · [Code](https://github.com/InterestingAary/DSAglazzer) — Offline-first spaced repetition DSA tracker. Heatmap + streaks + calendar + analytics. **React 19 · TypeScript · Vite · Tailwind CSS 4 · Framer Motion · PWA + MV3 Extension** — [Live](https://interestingaary.github.io/DSAglazzer/) ![Live](https://img.shields.io/badge/Live-14b8a6?style=flat-square)
+- **[Portfolio](https://interestingaary.github.io/portfolio/)** · [Code](https://github.com/InterestingAary/portfolio) — Personal portfolio — shipped section + showcase + case studies (Framer Motion, Lenis)
+- **[Rural Guards](https://github.com/InterestingAary/Rural-Guards)** · Hackathon winner — Rural safety & assistance platform for farmers/fishermen (AI crop detection, dam alerts, maps, voice)
+- **[Birthday Wishes](https://interestingaary.github.io/birthday-cake/)** · [Code](https://github.com/InterestingAary/birthday-cake) — First public deployment · shareable birthday experience
 
 ## 🛠️ Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,python,html,css,nodejs,express,git,github,vscode,robloxstudio,unrealengine&perline=13" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css,react,vite,tailwind,nodejs,express,git,github,vscode,robloxstudio,unrealengine&perline=9" alt="My Skills" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=InterestingAary&days=30&width=720" alt="30-day activity sparkline" />
 </p>
 
 ## 📊 GitHub Stats
