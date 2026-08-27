@@ -48,22 +48,22 @@ I'm a **B.Tech CCE student** who enjoys taking ideas from *"what if?"* to someth
   </a>
 </p>
 
-<p align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=InterestingAary&days=30&width=720" alt="30-day activity sparkline" />
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=InterestingAary&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://ghstats.dev/api/langs?username=InterestingAary&theme=radical&layout=bar&hide_border=true" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=InterestingAary&theme=radical&hide_border=true&background=0d1117" alt="Streak Stats" />
 </p>
 
-## 📈 Contribution Activity
+<p align="center">
+  <img src="https://ghstats.dev/api/mini?username=InterestingAary&metric=streak&label=Current+Streak&color=F7A928&style=for-the-badge" alt="Streak" />
+  <img src="https://ghstats.dev/api/mini?username=InterestingAary&metric=commits&label=Total+Commits&color=8b5cf6&style=for-the-badge" alt="Commits" />
+</p>
+
+## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InterestingAary&theme=github-compact" alt="Contribution Activity Graph" />
+  <img src="https://ghstats.dev/api/sparkline?username=InterestingAary&days=90&width=800&color=F7A928" alt="90-day contribution sparkline" />
 </p>
 
 ## 🐍 Contribution Snake
